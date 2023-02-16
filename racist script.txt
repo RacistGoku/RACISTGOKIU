@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://github.com/RacistGoku/RACISTGOKIU/blob/RACISTGOKU/A%20Racist%20Script.txt'))()
