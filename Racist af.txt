@@ -21,8 +21,8 @@ local Tab1 = Window:NewTab("Credits (CHECK)")
 
 local Section = Tab:NewSection("Spawn Custom Entities")
 local Section1 = Tab1:NewSection("Hello, this was made by me ofc ")
-local Section2 = Tab1:NewSection("İll credit whoever helps me at script")
-local Section3 = Tab1:NewSection("Please do not hate on me for not finishing script")
+local Section2 = Tab1:NewSection("Ill credit whoever helps me at script")
+local Section3 = Tab1:NewSection(" CREDIT Secret Dev#5169 for items ")
 local Section4 = Tab1:NewSection("Thanks! Have fun using ")
 
 Section:NewButton("Takla", "Spawn Takla", function()
