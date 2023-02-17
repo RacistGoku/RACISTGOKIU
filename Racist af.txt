@@ -36,7 +36,7 @@ local entityTable = Spawner.createEntity({
     Speed = 150,
     DelayTime = 2,
     HeightOffset = 0,
-    CanKill = true,
+    CanKill = false,
     KillRange = 50,
     BackwardsMovement = false,
     BreakLights = true,
@@ -129,7 +129,7 @@ local entityTable = Spawner.createEntity({
     Speed = 300, -- Percentage, 100 = default Rush speed
     DelayTime = 2, -- Time before starting cycles (seconds)
     HeightOffset = 0,
-    CanKill = true,
+    CanKill = false,
     KillRange = 50,
     BackwardsMovement = false,
     BreakLights = true,
@@ -315,7 +315,7 @@ local entityTable = Spawner.createEntity({
     Speed = 191, -- Percentage, 100 = default Rush speed
     DelayTime = 3, -- Time before starting cycles (seconds)
     HeightOffset = 0,
-    CanKill = true,
+    CanKill = false,
     KillRange = 50,
     BackwardsMovement = false,
     BreakLights = true,
